@@ -227,15 +227,15 @@ Only use the following tech-stacks:
 
 ### Frontend
 
-* HTML
-* CSS
-* JavaScript
+* HTML - for content & structure
+* CSS - for designing the web app
+* JavaScript - for managing validation, navigation and functions
 
 ### Backend
 
-* Node.js
+* Node.js -for web servers
 * Basic HTTP Server
-* Socket.IO
+* Socket.IO - for real-time messaging
 
 ### Restrictions
 
