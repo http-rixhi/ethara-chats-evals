@@ -24,7 +24,7 @@ Your responsibility is to design and develop the complete web application from s
 The final application should be fully functional and deployable.
 
 
-## 3. Input Requirements
+## 3. Input Req
 
 Users should be able to:
 
@@ -48,11 +48,11 @@ Genders options:
 * Other
 
 
-## 4. Expected Output
+## 4. Output Req
 
 Give me the fully working source code for both frontend and backend.
 
-The output must include:
+The output must be including:
 
 ### Frontend
 
@@ -183,7 +183,7 @@ Implement validation on both frontend and backend.
 
 ### Validation Rules
 
-* Name must contain at least 2 characters
+* Name contains at least 2 characters
 * Message cannot be empty
 * Trim unnecessary spaces
 * Limit message length appropriately
@@ -223,7 +223,7 @@ Display toast and messages like:
 
 ## 9. Technical Stack Requirements
 
-Use only the following technologies:
+Only use the following tech-stacks:
 
 ### Frontend
 
